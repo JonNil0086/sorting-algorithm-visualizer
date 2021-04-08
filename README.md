@@ -6,4 +6,4 @@ Feel free to check out the project by clicking the github-pages link!
 Open https://JonNil0086.github.io/sorting-algorithm-visualizer to check it out!
 
 ## Source code
-Link to master branch containing the source code: https://github.com/JonNil0086/sorting-algorithm-visualizer/tree/master
+Link to master branch containing the source code:</br> https://github.com/JonNil0086/sorting-algorithm-visualizer/tree/master
